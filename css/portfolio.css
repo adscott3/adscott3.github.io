@@ -301,7 +301,7 @@ a:focus {
 
 .btn-default {
     border: 1px solid #000;
-    color: #fff;
+    color: red;
     background-color: black;
 }
 
