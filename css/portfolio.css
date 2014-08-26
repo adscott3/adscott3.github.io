@@ -36,7 +36,7 @@ p {
         margin: 0 0 35px;
         font-size: 20px;
         line-height: 1.6;
-        color:FF00CC;
+        color: #FF00CC;
     }
 }
 
@@ -136,7 +136,7 @@ a:focus {
     height: auto;
     padding: 100px 0;
     text-align: center;
-    color: FF00CC;
+    color: #FF00CC;
     background: url(https://www.california-tour.com/wp-content/uploads/2011/04/Banner-L1a-LA-pink-sky-shutterstock-large.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
@@ -170,7 +170,7 @@ a:focus {
 
     .intro .intro-body .intro-text {
         font-size: 25px;
-        color: FF00CC;
+        color: #FF00CC;
     }
 }
 
@@ -256,7 +256,7 @@ a:focus {
     width: 100%;
     height:auto;
     padding: 0;
-    color: FF00CC;
+    color: #FF00CC;
     background: url(http://38.media.tumblr.com/1e31d9cdeed2412519019ff58ea65717/tumblr_mmwrnisP3d1qcvlblo1_500.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
@@ -272,7 +272,7 @@ a:focus {
 }
 
 #about , #contact{
-    color: FF00CC;
+    color: #FF00CC;
 }
 
 #about{
@@ -303,7 +303,7 @@ a:focus {
 
 .btn-default {
     border: 1px solid #000;
-    color: FF00CC;
+    color: #FF00CC;
     background-color: black;
 }
 
@@ -311,7 +311,7 @@ a:focus {
 .btn-default:focus {
     border: 1px solid #fff;
     outline: 0;
-    color: FF00CC;
+    color: #FF00CC;
     background-color: #219ab3;
 }
 
